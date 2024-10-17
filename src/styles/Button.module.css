@@ -1,0 +1,8 @@
+.button {
+    background-color: green;
+    border: 3px solid white;
+}
+
+.button:hover {
+    border: 3px solid white;
+}
